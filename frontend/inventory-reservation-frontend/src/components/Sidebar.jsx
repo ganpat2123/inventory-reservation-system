@@ -113,7 +113,7 @@ const Sidebar = ({ isOpen, onClose }) => {
           </p>
 
           <a
-            href="http://localhost:5000/api-docs"
+            href="https://inventory-reservation-system-eddo.onrender.com/api-docs"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 rounded-xl px-4 py-3 text-sm font-semibold text-slate-400 transition hover:bg-white/10 hover:text-white"
